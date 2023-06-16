@@ -1,0 +1,17 @@
+.Apple{
+    height:90px;
+    background-color: darkgreen;
+}
+.Broccoli{
+    height:90px;
+    background-color: rgb(45, 193, 204);
+}
+.circular{
+    border-radius: 100%;
+}
+h1{
+    color: black;
+}
+img:hover{
+    background-color: rgb(27, 7, 63);
+}
